@@ -1,0 +1,24 @@
+{
+  "name": "prm",
+  "version": "1.0.0",
+  "description": "A comprehensive application for the efficient management of a poker room.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalPilotte/prm.git"
+  },
+  "author": "Hal Pilotte",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HalPilotte/prm/issues"
+  },
+  "homepage": "https://github.com/HalPilotte/prm#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.1",
+    "react": "^18.2.0"
+  }
+}
